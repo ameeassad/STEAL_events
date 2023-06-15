@@ -1,0 +1,3 @@
+/image/test/2008_000003.png /label/test/2008_000003.bin
+/image/test/2008_000007.png /label/test/2008_000007.bin
+/image/test/2008_000009.png /label/test/2008_000009.bin
